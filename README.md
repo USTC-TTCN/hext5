@@ -10,7 +10,7 @@ HexT5 is a unified pre-training model designed to enhance the semantic inference
 
 Use `hext5_generation.py` to generate **summaries** or **identifier name** for decompiled pseudo code. 
 
-You can access the model weight from [zenodo](https://xxx).
+You can access the model weight from [zenodo](https://zenodo.org/records/11393904).
 
 If you find this work are helpful, please consider cite our paper:
 
